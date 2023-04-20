@@ -4,8 +4,8 @@
 
 # Schiff-Alert
 
-This is a Python script that uses the Twitter API and the Binance API to monitor the tweets of a user named Peter Schiff, who is known for being a critic of Bitcoin, and buy a small amount of Bitcoin whenever he mentions it on his tweets.
-It uses the Tweepy library to access Twitter's API and retrieve the most recent tweet from Peter Schiff. It then checks if the tweet contains any of the specified keywords related to Bitcoin and, if it does, the script uses the Binance API to place a market order to buy defined amount of Bitcoin.
+This is a Python script that uses the Twitter API and the Binance API to monitor Peter Schiff's tweets, who is known for being a critic of Bitcoin, and buy a small amount of Bitcoin whenever he mentions it on his tweets.
+It uses the Tweepy library to access Twitter's API and retrieve the most recent tweet from Peter Schiff. It then checks if the tweet contains any of the specified keywords and, if it does, the script uses the Binance API to place a market order to buy a user-defined amount of Bitcoin.
 
 ## Prerequisites
 
@@ -57,6 +57,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Disclaimer
 
-I created this bot purely for entertainment and mainly for the memes. The bot's functionality is not intended to be used as an investing tool, and any resulting profits or losses are not the responsibility of the bot or its creator.
-I created this bot solely for the purpose of demonstrating how automation and programming can be used to create fun and interesting projects. The fact that the bot functions as intended does not mean that it should be taken seriously as an investment tool. Any decisions related to investing in Bitcoin or any other asset should be made after careful research and analysis.
-I urge anyone who may come across this bot to approach it with caution and not to use it as a financial advice or tool. The bot's purpose is purely for fun and not meant to be used for any other purpose. 
+- I created this bot purely for entertainment and mainly for the memes. The bot's functionality is not intended to be used as an investing tool, and any resulting profits or losses are not the responsibility of the bot or its creator.
+- The purpose of this little project is demonstrating how automation and programming can be used to create fun and interesting projects. The fact that the bot functions as intended does not mean that it should be taken seriously as an investment tool. Any decisions related to investing in Bitcoin or any other asset should be made after careful research and analysis.
+- I urge anyone who may come across this bot to approach it with caution and not to use it as a financial advice or tool. The bot's purpose is purely for fun and not meant to be used for any other purpose. 
